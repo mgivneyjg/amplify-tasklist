@@ -59,7 +59,7 @@ Get your tools installed and account configured and let's get started!
 __IMPORTANT!__
 > Prior to starting this course, you should have Node/NPM (12.x +) and the AWS Amplify CLI installed. These are all very straight-forward to  setup, so they are omitted for the sake of brevity. 
 >
-> The documentation provides a walkthrough of how to install and configure the [AWS Amplify CLI](https://docs.amplify.aws/cli/start/install/), please have your software installed, CLI configured against your account prior to attempting this course.
+> The documentation provides a walkthrough of how to install and configure the [AWS Amplify CLI](https://docs.amplify.aws/cli/start/install/), please have your software installed, CLI configured against your account _prior_ to attempting this course.
 
 ---
 
