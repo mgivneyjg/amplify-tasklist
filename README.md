@@ -47,15 +47,13 @@ Each branch will consist of a set of incremental steps to add backend capabiliti
 
 Get your tools installed and account configured and let's get started!
 
-_IMPORTANT!_
+__IMPORTANT!__
 > Prior to starting this course, you should have Node/NPM (12.x +) and the AWS Amplify CLI installed. These are all very straight-forward to  setup, so they are omitted for the sake of brevity. 
 >
 > The documentation provides a walkthrough of how to install and configure the [AWS Amplify CLI](https://docs.amplify.aws/cli/start/install/), please have your software installed, CLI configured against your account prior to attempting this course.
 
 
-__01-baseline-app__
-
-Your tasks:
+### Lesson One Tasks:
 
 1. Fork the [lesson repository](https://github.com/mgivneyjg/todo-amplify) into your own Github account. When this is complete, you should have an repository in your account that you can incrementally improve. Commit your changes to the application to `main` branch, NOT THE lesson branch. 
 
