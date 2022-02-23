@@ -66,7 +66,7 @@ __IMPORTANT!__
 
 ### Lesson One Tasks:
 
-1. Fork the [lesson repository](https://github.com/mgivneyjg/todo-amplify) into your own Github account. When this is complete, you should have an repository in your account that you can incrementally improve. Commit your changes to the application to `main` branch, NOT THE lesson branch. 
+1. Fork the [lesson repository](https://github.com/mgivneyjg/todo-amplify) into your own Github account. When this is complete, you should have an repository in your account that you can incrementally improve. Commit your changes to the application to `main` branch, NOT THE lesson branch. (If you don't know how to Fork a repo, there's a button on the upper right hand corner of this screen.)
 
 2. Clone the repo to your local machine. As you progress through the course, the branches are there as a reference in the event you get stuck. DO NOT COMMIT CHANGES TO THE BRANCHES. We will follow a [trunk based development](https://trunkbaseddevelopment.com/) model during the course. You want to always commit your changes to the `main` branch, unless you are directed otherwise.
 
