@@ -63,4 +63,4 @@ __IMPORTANT!__
 
 ---
 
-If you are ready to start, navigate to the branch `01-baseline-app` and get ready to dominate!
+If you are ready to start, in the upper left there is a drop down containing the branches. Navigate to the branch `01-baseline-app` and get ready to dominate!
