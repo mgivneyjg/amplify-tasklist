@@ -20,7 +20,11 @@ Each checkpoint in the session will be captured by a branch. The branches will b
 
 If you navigate to each branch, this README doc will progressively explain how to build each step. 
 
-## Technologies
+### Technologies
+
+Amplify is not specifically a technology for React, it can also be used with Vue, Angular, Vanilla JS as well as other UI frameworks and Mobile toolkits. We are using React in this project, as it is the most common framework for web development projects at JG.
+
+Here is an overview of all the tech being used in this project.
 
 __Front End__
 
