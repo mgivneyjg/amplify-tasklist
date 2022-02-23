@@ -67,4 +67,4 @@ Your tasks:
 
 When you navigate in your browser, you should see the application up and running. This is only running locally, so other than the initial state, if you close or refresh the browser, all of your data is gone.
 
-![Start State](../docs/01-run-app.png)
+![Start State](./docs/01-run-app.png)
