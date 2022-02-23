@@ -34,8 +34,8 @@ __Front End__
 __Back End__: 
 
 * [Amazon Amplify](https://docs.amplify.aws/) - An opinionated toolset to speed time to market with AWS serverless apps
-** [AWS Cognito](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js/) for user authentication
-** [AWS AppSync](https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/js/) for managed GraphQL services
-** [AWS DynamoDB](https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/) for data storage
-** [AWS CloudFront](https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html) for Content Delivery Network
+* [AWS Cognito](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js/) for user authentication
+* [AWS AppSync](https://docs.amplify.aws/lib/graphqlapi/getting-started/q/platform/js/) for managed GraphQL services
+* [AWS DynamoDB](https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/) for data storage
+* [AWS CloudFront](https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html) for Content Delivery Network
 
