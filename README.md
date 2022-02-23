@@ -62,3 +62,5 @@ __IMPORTANT!__
 > The documentation provides a walkthrough of how to install and configure the [AWS Amplify CLI](https://docs.amplify.aws/cli/start/install/), please have your software installed, CLI configured against your account _prior_ to attempting this course.
 
 ---
+
+If you are ready to start, navigate to the branch `01-baseline-app` and get ready to dominate!
