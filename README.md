@@ -54,6 +54,8 @@ __IMPORTANT!__
 >
 > The documentation provides a walkthrough of how to install and configure the [AWS Amplify CLI](https://docs.amplify.aws/cli/start/install/), please have your software installed, CLI configured against your account prior to attempting this course.
 
+---
+
 
 ### Lesson One Tasks:
 
