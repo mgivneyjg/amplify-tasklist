@@ -1,13 +1,16 @@
 # WAR WEEK 2022 - Todo MVC Amplified
 
-This project is a progression through building a React app and deploying it to AWS using the Amazon Amplify toolkit.
+Welcome to the War Week 2022 tech session on AWS Amplify. Amplify is a set of purpose-built tools and features that lets frontend web and mobile developers quickly and easily build full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as your use cases evolve.
 
-As part of the program will take a React baseline application. Add hosting, user authentication, data persistence, add a custom resource and enable a CI/CD pipeline to support ongoing changes.... in about an hour.
+To accomplish this training, we are going to take an existing React app and deploy it, with the features you'd expect to have in a production grade application, to the Amazon Cloud. Along the way we will add user authentication with Amazon Cognito, data persistence with AWS AppSync and DynamoDB and deploy it to a content delivery network within the Amplify service. In addition, we will add a CI/CD pipeline so any future changes to the application will automatically build and deploy to the environment. Lastly, we will make a customization of the default Amplify behavior, so we can demonstrate that the framework (while opinionated) is very customizable.
 
+## How this course is organized
+
+Each of the lessons will be captured in a README document in a separate numbered branch. This course is meant to be progressive and as you should navigate through each of the branches __in order__, completing the steps, deploy the changes to your account and commiting your source code to the `main` branch in your own repository. If you get stuck, please contact [Matt Givney](mailto:mgivney@jahnelgroup.com) and I will be happy to jump on Slack and help you.
 
 ## Branches
 
-Each checkpoint in the session will be captured by a branch. The branches will be as follows:
+As mentioned, each set of instructions will be captured by a branch. The branches will be as follows:
 
 |Branch Name|Description|
 |-----------|-----------|
