@@ -1,6 +1,6 @@
-# WAR WEEK 2022 - Todo MVC Amplified
+# Todo MVC Amplified
 
-Welcome to the War Week 2022 tech session on AWS Amplify. Amplify is a set of purpose-built tools and features that lets frontend web and mobile developers quickly and easily build full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as your use cases evolve.
+Amplify is a set of purpose-built tools and features that lets frontend web and mobile developers quickly and easily build full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as your use cases evolve.
 
 To accomplish this training, we are going to take an existing React app and deploy it, with the features you'd expect to have in a production grade application, to the Amazon Cloud. Along the way we will add user authentication with Amazon Cognito, data persistence with AWS AppSync and DynamoDB and deploy it to a content delivery network within the Amplify service. In addition, we will add a CI/CD pipeline so any future changes to the application will automatically build and deploy to the environment. Lastly, we will make a customization of the default Amplify behavior, so we can demonstrate that the framework (while opinionated) is very customizable.
 
